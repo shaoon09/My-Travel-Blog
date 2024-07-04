@@ -12,11 +12,14 @@ h2{
     color: whitesmoke;
     font-weight: bolder;
     background-color:rgb(117, 176, 199);
+    margin-left: auto;
+    margin-right: auto;
+    
     
     
 }
 #day1{
-    background-color:rgb(179, 200, 207);
+    background-color:<h2>My First Travel Blog In The Reykjavik</h2>;
     padding: 10px;
     margin: 10px;
     border: 20px solid rgb(179, 200, 207);
@@ -49,6 +52,7 @@ div{
     box-shadow: 10px 10px 10px rgb(179, 200, 207);
     padding-top: 20px;
     font-family: "Gamja Flower", sans-serif;
+    background-color:rgb(179, 200, 207) ;
 
 }
 a{
